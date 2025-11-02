@@ -286,6 +286,8 @@ class CatQuiz {
     }
 
     displayResult(cat, userTraits) {
+        document.getElementById('result-cat-image').src = cat.image;
+        document.getElementById('result-cat-image').alt = `${cat.name} cat`;
         document.getElementById('result-cat-name').textContent = cat.name;
         document.getElementById('result-cat-description').textContent = cat.description;
         document.getElementById('compatibility-percentage').textContent = `${cat.compatibilityScore}%`;
@@ -343,6 +345,7 @@ class CatQuiz {
         const result = {
             catName: cat.name,
             catDescription: cat.description,
+            catImage: cat.image,
             compatibilityScore: cat.compatibilityScore,
             date: new Date().toISOString(),
             traits: cat.traits
