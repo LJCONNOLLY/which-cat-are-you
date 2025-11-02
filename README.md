@@ -113,10 +113,26 @@ The application features:
 - Optimized typography for all screen sizes
 - Smooth animations and transitions
 
+### Cat Breed Images
+Each breed result displays an image on the results page. Currently using colorful placeholder images with breed names via placeholder.com. These are:
+- Lightweight and fast loading
+- Consistent and reliable
+- Color-coded for visual variety
+- Display the breed name for clarity
+
+**To use real cat breed photos:**
+1. Add cat breed images to an `images/` folder (400x400px recommended)
+2. Name them using the breed name in lowercase with hyphens (e.g., `maine-coon.jpg`)
+3. Update `cat-breeds.json` to reference local paths: `"image": "images/breed-name.jpg"`
+4. Alternatively, use URLs from free image services like:
+   - [The Cat API](https://thecatapi.com/)
+   - [Unsplash](https://unsplash.com/s/photos/cat-breed)
+   - [Pexels](https://www.pexels.com/search/cat/)
+   - [Wikimedia Commons](https://commons.wikimedia.org/)
+
 ## Future Enhancements
 
 Potential features for future versions:
-- Add cat breed images
 - Multiple language support
 - More detailed breed information and care tips
 - Social media sharing with custom images
