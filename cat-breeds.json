@@ -14,7 +14,7 @@
         "vocalization": 5,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FF6B9D/333333?text=Abyssinian"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGNkI5RCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QWJ5c3NpbmlhbjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 2,
@@ -30,7 +30,7 @@
         "vocalization": 4,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/C44569/333333?text=American+Bobtail"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0M0NDU2OSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QW1lcmljYW4gQm9idGFpbDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFA07A/333333?text=American+Curl"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQTA3QSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QW1lcmljYW4gQ3VybDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 4,
@@ -62,7 +62,7 @@
         "vocalization": 3,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFD93D/333333?text=American+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDkzRCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QW1lcmljYW4gU2hvcnRoYWlyPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 5,
@@ -78,7 +78,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/6BCB77/333333?text=American+Wirehair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzZCQ0I3NyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QW1lcmljYW4gV2lyZWhhaXI8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 6,
@@ -94,7 +94,7 @@
         "vocalization": 9,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/4D96FF/333333?text=Balinese"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzREOTZGRiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QmFsaW5lc2U8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 7,
@@ -110,7 +110,7 @@
         "vocalization": 6,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/9D84B7/333333?text=Bengal"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzlEODRCNyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QmVuZ2FsPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 8,
@@ -126,7 +126,7 @@
         "vocalization": 2,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFB6B9/333333?text=Birman"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQjZCOSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QmlybWFuPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 9,
@@ -142,7 +142,7 @@
         "vocalization": 6,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/A8D8EA/333333?text=Bombay"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RDhFQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Qm9tYmF5PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 10,
@@ -158,7 +158,7 @@
         "vocalization": 2,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/AA96DA/333333?text=British+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0FBOTZEQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QnJpdGlzaCBTaG9ydGhhaXI8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 11,
@@ -174,7 +174,7 @@
         "vocalization": 6,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FCBAD3/333333?text=Burmese"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZDQkFEMyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QnVybWVzZTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 12,
@@ -190,7 +190,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFFFD2/333333?text=Burmilla"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRkZEMiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QnVybWlsbGE8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 13,
@@ -206,7 +206,7 @@
         "vocalization": 1,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/A8E6CE/333333?text=Chartreux"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RTZDRSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q2hhcnRyZXV4PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 14,
@@ -222,7 +222,7 @@
         "vocalization": 5,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFD3B6/333333?text=Cornish+Rex"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDNCNiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q29ybmlzaCBSZXg8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 15,
@@ -238,7 +238,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFAAA5/333333?text=Devon+Rex"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQUFBNSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RGV2b24gUmV4PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 16,
@@ -254,7 +254,7 @@
         "vocalization": 6,
         "adaptability": 5
       },
-      "image": "https://via.placeholder.com/400x400/FF6B9D/333333?text=Egyptian+Mau"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGNkI5RCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RWd5cHRpYW4gTWF1PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 17,
@@ -270,7 +270,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/C44569/333333?text=Exotic+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0M0NDU2OSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RXhvdGljIFNob3J0aGFpcjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 18,
@@ -286,7 +286,7 @@
         "vocalization": 5,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFA07A/333333?text=Havana+Brown"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQTA3QSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+SGF2YW5hIEJyb3duPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 19,
@@ -302,7 +302,7 @@
         "vocalization": 4,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/FFD93D/333333?text=Himalayan"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDkzRCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+SGltYWxheWFuPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 20,
@@ -318,7 +318,7 @@
         "vocalization": 7,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/6BCB77/333333?text=Japanese+Bobtail"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzZCQ0I3NyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+SmFwYW5lc2UgQm9idGFpbDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 21,
@@ -334,7 +334,7 @@
         "vocalization": 4,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/4D96FF/333333?text=Korat"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzREOTZGRiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+S29yYXQ8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 22,
@@ -350,7 +350,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/9D84B7/333333?text=LaPerm"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzlEODRCNyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+TGFQZXJtPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 23,
@@ -366,7 +366,7 @@
         "vocalization": 4,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFB6B9/333333?text=Maine+Coon"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQjZCOSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+TWFpbmUgQ29vbjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 24,
@@ -382,7 +382,7 @@
         "vocalization": 4,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/A8D8EA/333333?text=Manx"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RDhFQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+TWFueDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 25,
@@ -398,7 +398,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/AA96DA/333333?text=Munchkin"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0FBOTZEQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+TXVuY2hraW48L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 26,
@@ -414,7 +414,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FCBAD3/333333?text=Norwegian+Forest+Cat"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZDQkFEMyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Tm9yd2VnaWFuIEZvcmVzdCBDYXQ8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 27,
@@ -430,7 +430,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFFFD2/333333?text=Ocicat"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRkZEMiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+T2NpY2F0PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 28,
@@ -446,7 +446,7 @@
         "vocalization": 10,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/A8E6CE/333333?text=Oriental+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RTZDRSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+T3JpZW50YWwgU2hvcnRoYWlyPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 29,
@@ -462,7 +462,7 @@
         "vocalization": 2,
         "adaptability": 5
       },
-      "image": "https://via.placeholder.com/400x400/FFD3B6/333333?text=Persian"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDNCNiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+UGVyc2lhbjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 30,
@@ -478,7 +478,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFAAA5/333333?text=Ragdoll"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQUFBNSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+UmFnZG9sbDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 31,
@@ -494,7 +494,7 @@
         "vocalization": 2,
         "adaptability": 5
       },
-      "image": "https://via.placeholder.com/400x400/FF6B9D/333333?text=Russian+Blue"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGNkI5RCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+UnVzc2lhbiBCbHVlPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 32,
@@ -510,7 +510,7 @@
         "vocalization": 6,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/C44569/333333?text=Savannah"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0M0NDU2OSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U2F2YW5uYWg8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 33,
@@ -526,7 +526,7 @@
         "vocalization": 3,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFA07A/333333?text=Scottish+Fold"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQTA3QSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U2NvdHRpc2ggRm9sZDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 34,
@@ -542,7 +542,7 @@
         "vocalization": 3,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFD93D/333333?text=Selkirk+Rex"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDkzRCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U2Vsa2lyayBSZXg8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 35,
@@ -558,7 +558,7 @@
         "vocalization": 10,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/6BCB77/333333?text=Siamese"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzZCQ0I3NyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U2lhbWVzZTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 36,
@@ -574,7 +574,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/4D96FF/333333?text=Siberian"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzREOTZGRiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U2liZXJpYW48L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 37,
@@ -590,7 +590,7 @@
         "vocalization": 4,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/9D84B7/333333?text=Singapura"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzlEODRCNyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U2luZ2FwdXJhPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 38,
@@ -606,7 +606,7 @@
         "vocalization": 5,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFB6B9/333333?text=Somali"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQjZCOSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U29tYWxpPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 39,
@@ -622,7 +622,7 @@
         "vocalization": 6,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/A8D8EA/333333?text=Sphynx"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RDhFQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U3BoeW54PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 40,
@@ -638,7 +638,7 @@
         "vocalization": 7,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/AA96DA/333333?text=Tonkinese"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0FBOTZEQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+VG9ua2luZXNlPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 41,
@@ -654,7 +654,7 @@
         "vocalization": 5,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FCBAD3/333333?text=Turkish+Angora"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZDQkFEMyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+VHVya2lzaCBBbmdvcmE8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 42,
@@ -670,7 +670,7 @@
         "vocalization": 5,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/FFFFD2/333333?text=Turkish+Van"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRkZEMiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+VHVya2lzaCBWYW48L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 43,
@@ -686,7 +686,7 @@
         "vocalization": 3,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/A8E6CE/333333?text=Ragamuffin"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RTZDRSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+UmFnYW11ZmZpbjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 44,
@@ -702,7 +702,7 @@
         "vocalization": 6,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFD3B6/333333?text=Peterbald"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDNCNiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+UGV0ZXJiYWxkPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 45,
@@ -718,7 +718,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFAAA5/333333?text=Pixie-Bob"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQUFBNSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+UGl4aWUtQm9iPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 46,
@@ -734,7 +734,7 @@
         "vocalization": 2,
         "adaptability": 5
       },
-      "image": "https://via.placeholder.com/400x400/FF6B9D/333333?text=Nebelung"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGNkI5RCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+TmViZWx1bmc8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 47,
@@ -750,7 +750,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/C44569/333333?text=Toyger"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0M0NDU2OSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+VG95Z2VyPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 48,
@@ -766,7 +766,7 @@
         "vocalization": 4,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFA07A/333333?text=Domestic+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQTA3QSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RG9tZXN0aWMgU2hvcnRoYWlyPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 49,
@@ -782,7 +782,7 @@
         "vocalization": 4,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFD93D/333333?text=Domestic+Longhair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDkzRCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RG9tZXN0aWMgTG9uZ2hhaXI8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 50,
@@ -798,7 +798,7 @@
         "vocalization": 4,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/6BCB77/333333?text=Sokoke"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzZCQ0I3NyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U29rb2tlPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 51,
@@ -814,7 +814,7 @@
         "vocalization": 5,
         "adaptability": 5
       },
-      "image": "https://via.placeholder.com/400x400/4D96FF/333333?text=Chausie"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzREOTZGRiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q2hhdXNpZTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 52,
@@ -830,7 +830,7 @@
         "vocalization": 7,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/9D84B7/333333?text=Khao+Manee"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzlEODRCNyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+S2hhbyBNYW5lZTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 53,
@@ -846,7 +846,7 @@
         "vocalization": 4,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFB6B9/333333?text=Lykoi"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQjZCOSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+THlrb2k8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 54,
@@ -862,7 +862,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/A8D8EA/333333?text=Kurilian+Bobtail"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RDhFQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+S3VyaWxpYW4gQm9idGFpbDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 55,
@@ -878,7 +878,7 @@
         "vocalization": 6,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/AA96DA/333333?text=Donskoy"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0FBOTZEQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RG9uc2tveTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 56,
@@ -894,7 +894,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FCBAD3/333333?text=Minskin"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZDQkFEMyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+TWluc2tpbjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 57,
@@ -910,7 +910,7 @@
         "vocalization": 5,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFFFD2/333333?text=Bambino"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRkZEMiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QmFtYmlubzwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 58,
@@ -926,7 +926,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/A8E6CE/333333?text=Napoleon"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RTZDRSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+TmFwb2xlb248L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 59,
@@ -942,7 +942,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFD3B6/333333?text=Kinkalow"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDNCNiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+S2lua2Fsb3c8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 60,
@@ -958,7 +958,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFAAA5/333333?text=Genetta"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQUFBNSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+R2VuZXR0YTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 61,
@@ -974,7 +974,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FF6B9D/333333?text=Highlander"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGNkI5RCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+SGlnaGxhbmRlcjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 62,
@@ -990,7 +990,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/C44569/333333?text=Foldex"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0M0NDU2OSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Rm9sZGV4PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 63,
@@ -1006,7 +1006,7 @@
         "vocalization": 6,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFA07A/333333?text=Elf+Cat"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQTA3QSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RWxmIENhdDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 64,
@@ -1022,7 +1022,7 @@
         "vocalization": 5,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFD93D/333333?text=Dwelf"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDkzRCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RHdlbGY8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 65,
@@ -1038,7 +1038,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/6BCB77/333333?text=Cheetoh"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzZCQ0I3NyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q2hlZXRvaDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 66,
@@ -1054,7 +1054,7 @@
         "vocalization": 5,
         "adaptability": 5
       },
-      "image": "https://via.placeholder.com/400x400/4D96FF/333333?text=Safari"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzREOTZGRiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U2FmYXJpPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 67,
@@ -1070,7 +1070,7 @@
         "vocalization": 7,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/9D84B7/333333?text=Serengeti"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzlEODRCNyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U2VyZW5nZXRpPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 68,
@@ -1086,7 +1086,7 @@
         "vocalization": 4,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFB6B9/333333?text=Chantilly-Tiffany"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQjZCOSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q2hhbnRpbGx5LVRpZmZhbnk8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 69,
@@ -1102,7 +1102,7 @@
         "vocalization": 4,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/A8D8EA/333333?text=Cyprus"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RDhFQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q3lwcnVzPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 70,
@@ -1118,7 +1118,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/AA96DA/333333?text=German+Rex"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0FBOTZEQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+R2VybWFuIFJleDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 71,
@@ -1134,7 +1134,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FCBAD3/333333?text=Ojos+Azules"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZDQkFEMyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+T2pvcyBBenVsZXM8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 72,
@@ -1150,7 +1150,7 @@
         "vocalization": 4,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFFFD2/333333?text=Raas"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRkZEMiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+UmFhczwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 73,
@@ -1166,7 +1166,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/A8E6CE/333333?text=Tennessee+Rex"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RTZDRSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+VGVubmVzc2VlIFJleDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 74,
@@ -1182,7 +1182,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFD3B6/333333?text=Ukrainian+Levkoy"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDNCNiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+VWtyYWluaWFuIExldmtveTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 75,
@@ -1198,7 +1198,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFAAA5/333333?text=York+Chocolate"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQUFBNSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+WW9yayBDaG9jb2xhdGU8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 76,
@@ -1214,7 +1214,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FF6B9D/333333?text=Aphrodite+Giant"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGNkI5RCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QXBocm9kaXRlIEdpYW50PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 77,
@@ -1230,7 +1230,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/C44569/333333?text=Asian+Semi-longhair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0M0NDU2OSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QXNpYW4gU2VtaS1sb25naGFpcjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 78,
@@ -1246,7 +1246,7 @@
         "vocalization": 4,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFA07A/333333?text=Australian+Mist"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQTA3QSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QXVzdHJhbGlhbiBNaXN0PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 79,
@@ -1262,7 +1262,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFD93D/333333?text=Brazilian+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDkzRCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QnJhemlsaWFuIFNob3J0aGFpcjwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 80,
@@ -1278,7 +1278,7 @@
         "vocalization": 4,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/6BCB77/333333?text=California+Spangled"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzZCQ0I3NyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q2FsaWZvcm5pYSBTcGFuZ2xlZDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 81,
@@ -1294,7 +1294,7 @@
         "vocalization": 9,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/4D96FF/333333?text=Colorpoint+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzREOTZGRiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q29sb3Jwb2ludCBTaG9ydGhhaXI8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 82,
@@ -1310,7 +1310,7 @@
         "vocalization": 3,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/9D84B7/333333?text=Dragon+Li"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzlEODRCNyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RHJhZ29uIExpPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 83,
@@ -1326,7 +1326,7 @@
         "vocalization": 3,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFB6B9/333333?text=European+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQjZCOSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RXVyb3BlYW4gU2hvcnRoYWlyPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 84,
@@ -1342,7 +1342,7 @@
         "vocalization": 3,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/A8D8EA/333333?text=Korn+Ja"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RDhFQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+S29ybiBKYTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 85,
@@ -1358,7 +1358,7 @@
         "vocalization": 3,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/AA96DA/333333?text=Suphalak"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0FBOTZEQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+U3VwaGFsYWs8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 86,
@@ -1374,7 +1374,7 @@
         "vocalization": 8,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FCBAD3/333333?text=Traditional+Siamese"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZDQkFEMyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+VHJhZGl0aW9uYWwgU2lhbWVzZTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 87,
@@ -1390,7 +1390,7 @@
         "vocalization": 4,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFFFD2/333333?text=Wila+Krungthep"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRkZEMiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+V2lsYSBLcnVuZ3RoZXA8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 88,
@@ -1406,7 +1406,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/A8E6CE/333333?text=Aegean"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RTZDRSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QWVnZWFuPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 89,
@@ -1422,7 +1422,7 @@
         "vocalization": 5,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFD3B6/333333?text=Arabian+Mau"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDNCNiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QXJhYmlhbiBNYXU8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 90,
@@ -1438,7 +1438,7 @@
         "vocalization": 5,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FFAAA5/333333?text=Asian"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQUFBNSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QXNpYW48L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 91,
@@ -1454,7 +1454,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/FF6B9D/333333?text=Bambob"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGNkI5RCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QmFtYm9iPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 92,
@@ -1470,7 +1470,7 @@
         "vocalization": 2,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/C44569/333333?text=Bohemian+Rex"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0M0NDU2OSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Qm9oZW1pYW4gUmV4PC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 93,
@@ -1486,7 +1486,7 @@
         "vocalization": 4,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFA07A/333333?text=Cheetah"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQTA3QSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q2hlZXRhaDwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 94,
@@ -1502,7 +1502,7 @@
         "vocalization": 4,
         "adaptability": 9
       },
-      "image": "https://via.placeholder.com/400x400/FFD93D/333333?text=Colorpoint+European+Shorthair"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGRDkzRCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q29sb3Jwb2ludCBFdXJvcGVhbiBTaG9ydGhhaXI8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 95,
@@ -1518,7 +1518,7 @@
         "vocalization": 4,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/6BCB77/333333?text=Cymric"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzZCQ0I3NyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+Q3ltcmljPC90ZXh0Pgo8L3N2Zz4="
     },
     {
       "id": 96,
@@ -1534,7 +1534,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/4D96FF/333333?text=Desert+Lynx"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzREOTZGRiIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RGVzZXJ0IEx5bng8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 97,
@@ -1550,7 +1550,7 @@
         "vocalization": 2,
         "adaptability": 4
       },
-      "image": "https://via.placeholder.com/400x400/9D84B7/333333?text=Feral"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzlEODRCNyIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+RmVyYWw8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 98,
@@ -1566,7 +1566,7 @@
         "vocalization": 8,
         "adaptability": 7
       },
-      "image": "https://via.placeholder.com/400x400/FFB6B9/333333?text=Javanese"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGQjZCOSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+SmF2YW5lc2U8L3RleHQ+Cjwvc3ZnPg=="
     },
     {
       "id": 99,
@@ -1582,7 +1582,7 @@
         "vocalization": 5,
         "adaptability": 6
       },
-      "image": "https://via.placeholder.com/400x400/A8D8EA/333333?text=Jungala"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0E4RDhFQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+SnVuZ2FsYTwvdGV4dD4KPC9zdmc+"
     },
     {
       "id": 100,
@@ -1598,7 +1598,7 @@
         "vocalization": 4,
         "adaptability": 8
       },
-      "image": "https://via.placeholder.com/400x400/AA96DA/333333?text=Lambkin"
+      "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0FBOTZEQSIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+TGFtYmtpbjwvdGV4dD4KPC9zdmc+"
     }
   ]
 }

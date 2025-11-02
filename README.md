@@ -114,10 +114,12 @@ The application features:
 - Smooth animations and transitions
 
 ### Cat Breed Images
-Each breed result displays an image on the results page. Currently using colorful placeholder images with breed names via placeholder.com. These are:
-- Lightweight and fast loading
-- Consistent and reliable
-- Color-coded for visual variety
+Each breed result displays an image on the results page. Currently using **inline SVG data URIs** with breed names. These are:
+- Embedded directly in the JSON (no external requests)
+- Work 100% of the time with zero dependencies
+- No CORS issues or CDN problems
+- Lightweight and instant loading
+- Color-coded for visual variety (15 different colors)
 - Display the breed name for clarity
 
 **To use real cat breed photos:**
