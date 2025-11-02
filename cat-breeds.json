@@ -1,0 +1,1504 @@
+{
+  "breeds": [
+    {
+      "id": 1,
+      "name": "Abyssinian",
+      "description": "Active, playful, and highly intelligent. Loves to explore and be involved in everything.",
+      "traits": {
+        "energy_level": 9,
+        "sociability": 8,
+        "independence": 6,
+        "playfulness": 9,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 5,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 2,
+      "name": "American Bobtail",
+      "description": "Friendly, intelligent, and adaptable. Great with families and enjoys interactive play.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 8,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 3,
+      "name": "American Curl",
+      "description": "Affectionate, playful, and people-oriented. Maintains kitten-like personality into adulthood.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 4,
+        "playfulness": 8,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 4,
+      "name": "American Shorthair",
+      "description": "Easy-going, adaptable, and good-natured. Perfect balance of playful and calm.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 6,
+        "affection": 7,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 5,
+      "name": "American Wirehair",
+      "description": "Calm, reserved, and independent. Enjoys attention but not overly demanding.",
+      "traits": {
+        "energy_level": 4,
+        "sociability": 6,
+        "independence": 7,
+        "playfulness": 5,
+        "affection": 6,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 6,
+      "name": "Balinese",
+      "description": "Vocal, affectionate, and highly social. Loves to communicate and be around people.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 8,
+        "affection": 10,
+        "intelligence": 9,
+        "vocalization": 9,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 7,
+      "name": "Bengal",
+      "description": "Extremely active, athletic, and wild-looking. Needs lots of stimulation and play.",
+      "traits": {
+        "energy_level": 10,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 10,
+        "affection": 6,
+        "intelligence": 10,
+        "vocalization": 6,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 8,
+      "name": "Birman",
+      "description": "Gentle, quiet, and affectionate. Loves companionship and is very laid-back.",
+      "traits": {
+        "energy_level": 4,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 5,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 2,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bombay",
+      "description": "Outgoing, friendly, and heat-seeking. Loves to be the center of attention.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 7,
+        "affection": 10,
+        "intelligence": 8,
+        "vocalization": 6,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 10,
+      "name": "British Shorthair",
+      "description": "Calm, easy-going, and dignified. Independent but loyal and affectionate.",
+      "traits": {
+        "energy_level": 3,
+        "sociability": 6,
+        "independence": 8,
+        "playfulness": 4,
+        "affection": 7,
+        "intelligence": 7,
+        "vocalization": 2,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 11,
+      "name": "Burmese",
+      "description": "Highly social, playful, and dog-like. Craves human interaction and companionship.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 8,
+        "affection": 10,
+        "intelligence": 8,
+        "vocalization": 6,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 12,
+      "name": "Burmilla",
+      "description": "Playful, sociable, and easy-going. Loves attention but not overly demanding.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 13,
+      "name": "Chartreux",
+      "description": "Quiet, intelligent, and observant. Forms strong bonds but remains independent.",
+      "traits": {
+        "energy_level": 4,
+        "sociability": 6,
+        "independence": 7,
+        "playfulness": 5,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 1,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 14,
+      "name": "Cornish Rex",
+      "description": "Energetic, acrobatic, and playful. Loves to be the center of attention.",
+      "traits": {
+        "energy_level": 9,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 10,
+        "affection": 9,
+        "intelligence": 9,
+        "vocalization": 5,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 15,
+      "name": "Devon Rex",
+      "description": "Mischievous, loyal, and people-oriented. Often called a 'monkey in a cat suit'.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 9,
+        "affection": 10,
+        "intelligence": 9,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 16,
+      "name": "Egyptian Mau",
+      "description": "Active, loyal, and bonded to their family. Can be reserved with strangers.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 6,
+        "independence": 6,
+        "playfulness": 8,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 6,
+        "adaptability": 5
+      }
+    },
+    {
+      "id": 17,
+      "name": "Exotic Shorthair",
+      "description": "Gentle, calm, and affectionate. Like a Persian but with less grooming needs.",
+      "traits": {
+        "energy_level": 3,
+        "sociability": 7,
+        "independence": 5,
+        "playfulness": 4,
+        "affection": 9,
+        "intelligence": 6,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 18,
+      "name": "Havana Brown",
+      "description": "Curious, playful, and interactive. Forms strong bonds with their people.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 19,
+      "name": "Himalayan",
+      "description": "Sweet, docile, and affectionate. Prefers calm environments and gentle handling.",
+      "traits": {
+        "energy_level": 2,
+        "sociability": 7,
+        "independence": 5,
+        "playfulness": 3,
+        "affection": 9,
+        "intelligence": 6,
+        "vocalization": 4,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 20,
+      "name": "Japanese Bobtail",
+      "description": "Active, intelligent, and talkative. Very social and loves interactive play.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 9,
+        "independence": 4,
+        "playfulness": 9,
+        "affection": 8,
+        "intelligence": 9,
+        "vocalization": 7,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 21,
+      "name": "Korat",
+      "description": "Observant, intelligent, and forms strong bonds. Can be possessive of their people.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 6,
+        "independence": 6,
+        "playfulness": 6,
+        "affection": 8,
+        "intelligence": 9,
+        "vocalization": 4,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 22,
+      "name": "LaPerm",
+      "description": "Affectionate, curious, and people-oriented. Loves to be involved in activities.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 7,
+        "affection": 10,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 23,
+      "name": "Maine Coon",
+      "description": "Gentle giant, friendly, and adaptable. Great with families and other pets.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 24,
+      "name": "Manx",
+      "description": "Loyal, playful, and dog-like. Forms strong attachments to their family.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 7,
+        "independence": 5,
+        "playfulness": 8,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 25,
+      "name": "Munchkin",
+      "description": "Outgoing, playful, and confident despite short legs. Very sociable.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 9,
+        "independence": 4,
+        "playfulness": 9,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 26,
+      "name": "Norwegian Forest Cat",
+      "description": "Gentle, patient, and friendly. Independent but enjoys companionship.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 7,
+        "independence": 7,
+        "playfulness": 6,
+        "affection": 7,
+        "intelligence": 8,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 27,
+      "name": "Ocicat",
+      "description": "Outgoing, social, and athletic. Loves attention and interactive play.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 9,
+        "independence": 4,
+        "playfulness": 9,
+        "affection": 8,
+        "intelligence": 9,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 28,
+      "name": "Oriental Shorthair",
+      "description": "Highly vocal, social, and demanding. Forms intense bonds with people.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 8,
+        "affection": 10,
+        "intelligence": 9,
+        "vocalization": 10,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 29,
+      "name": "Persian",
+      "description": "Calm, sweet, and gentle. Prefers peaceful environments and quiet companionship.",
+      "traits": {
+        "energy_level": 2,
+        "sociability": 6,
+        "independence": 6,
+        "playfulness": 3,
+        "affection": 8,
+        "intelligence": 6,
+        "vocalization": 2,
+        "adaptability": 5
+      }
+    },
+    {
+      "id": 30,
+      "name": "Ragdoll",
+      "description": "Docile, gentle, and extremely affectionate. Goes limp when picked up.",
+      "traits": {
+        "energy_level": 3,
+        "sociability": 9,
+        "independence": 2,
+        "playfulness": 4,
+        "affection": 10,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 31,
+      "name": "Russian Blue",
+      "description": "Quiet, gentle, and reserved. Forms deep bonds but shy with strangers.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 5,
+        "independence": 7,
+        "playfulness": 6,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 2,
+        "adaptability": 5
+      }
+    },
+    {
+      "id": 32,
+      "name": "Savannah",
+      "description": "Highly active, adventurous, and dog-like. Needs lots of stimulation.",
+      "traits": {
+        "energy_level": 10,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 10,
+        "affection": 6,
+        "intelligence": 10,
+        "vocalization": 6,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 33,
+      "name": "Scottish Fold",
+      "description": "Sweet, calm, and adaptable. Enjoys companionship but not overly demanding.",
+      "traits": {
+        "energy_level": 4,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 5,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 34,
+      "name": "Selkirk Rex",
+      "description": "Patient, tolerant, and affectionate. Great with families and other pets.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 6,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 35,
+      "name": "Siamese",
+      "description": "Extremely vocal, social, and demanding. Wants to be involved in everything.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 8,
+        "affection": 10,
+        "intelligence": 10,
+        "vocalization": 10,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 36,
+      "name": "Siberian",
+      "description": "Agile, playful, and affectionate. Great problem-solver and loves water.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 8,
+        "affection": 8,
+        "intelligence": 9,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 37,
+      "name": "Singapura",
+      "description": "Small, playful, and people-oriented. Loves warmth and companionship.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 8,
+        "affection": 9,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 38,
+      "name": "Somali",
+      "description": "Active, playful, and extroverted. Loves to explore and be social.",
+      "traits": {
+        "energy_level": 9,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 9,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 5,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 39,
+      "name": "Sphynx",
+      "description": "Extroverted, energetic, and loves attention. Very people-oriented.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 9,
+        "affection": 10,
+        "intelligence": 9,
+        "vocalization": 6,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 40,
+      "name": "Tonkinese",
+      "description": "Playful, affectionate, and highly interactive. Loves to play fetch.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 9,
+        "affection": 9,
+        "intelligence": 9,
+        "vocalization": 7,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 41,
+      "name": "Turkish Angora",
+      "description": "Intelligent, athletic, and assertive. Loves to be in charge.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 9,
+        "affection": 7,
+        "intelligence": 10,
+        "vocalization": 5,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 42,
+      "name": "Turkish Van",
+      "description": "Energetic, playful, and loves water. Independent but affectionate on own terms.",
+      "traits": {
+        "energy_level": 9,
+        "sociability": 6,
+        "independence": 7,
+        "playfulness": 9,
+        "affection": 6,
+        "intelligence": 9,
+        "vocalization": 5,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 43,
+      "name": "Ragamuffin",
+      "description": "Calm, sweet, and extremely patient. Great with children and other pets.",
+      "traits": {
+        "energy_level": 3,
+        "sociability": 9,
+        "independence": 2,
+        "playfulness": 5,
+        "affection": 10,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 44,
+      "name": "Peterbald",
+      "description": "Affectionate, peaceful, and curious. Loves human companionship.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 9,
+        "vocalization": 6,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 45,
+      "name": "Pixie-Bob",
+      "description": "Dog-like, loyal, and social. Bonds strongly with family.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 46,
+      "name": "Nebelung",
+      "description": "Reserved, quiet, and gentle. Shy with strangers but devoted to family.",
+      "traits": {
+        "energy_level": 4,
+        "sociability": 5,
+        "independence": 7,
+        "playfulness": 5,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 2,
+        "adaptability": 5
+      }
+    },
+    {
+      "id": 47,
+      "name": "Toyger",
+      "description": "Laid-back, friendly, and social. Easy-going with tiger-like appearance.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 6,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 48,
+      "name": "Domestic Shorthair",
+      "description": "Varied personality, adaptable, and generally friendly. Mixed heritage.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 6,
+        "affection": 7,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 49,
+      "name": "Domestic Longhair",
+      "description": "Sweet, varied personality, and adaptable. Mixed heritage with long fur.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 5,
+        "affection": 7,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 50,
+      "name": "Sokoke",
+      "description": "Active, independent, and intelligent. Enjoys climbing and exploring.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 6,
+        "independence": 7,
+        "playfulness": 8,
+        "affection": 6,
+        "intelligence": 9,
+        "vocalization": 4,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 51,
+      "name": "Chausie",
+      "description": "Athletic, intelligent, and needs lots of space. High energy and adventurous.",
+      "traits": {
+        "energy_level": 10,
+        "sociability": 6,
+        "independence": 7,
+        "playfulness": 9,
+        "affection": 5,
+        "intelligence": 10,
+        "vocalization": 5,
+        "adaptability": 5
+      }
+    },
+    {
+      "id": 52,
+      "name": "Khao Manee",
+      "description": "Active, communicative, and social. Curious and loves attention.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 9,
+        "independence": 4,
+        "playfulness": 8,
+        "affection": 9,
+        "intelligence": 8,
+        "vocalization": 7,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 53,
+      "name": "Lykoi",
+      "description": "Friendly, loyal, and playful. Unique werewolf-like appearance.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 7,
+        "independence": 5,
+        "playfulness": 8,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 4,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 54,
+      "name": "Kurilian Bobtail",
+      "description": "Gentle, intelligent, and adaptable. Great hunting instincts.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 7,
+        "affection": 7,
+        "intelligence": 8,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 55,
+      "name": "Donskoy",
+      "description": "Friendly, intelligent, and highly social. Loves human companionship.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 9,
+        "vocalization": 6,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 56,
+      "name": "Minskin",
+      "description": "Affectionate, playful, and people-oriented. Short legs and sparse coat.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 8,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 57,
+      "name": "Bambino",
+      "description": "Outgoing, affectionate, and playful. Hairless with short legs.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 9,
+        "affection": 10,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 58,
+      "name": "Napoleon",
+      "description": "Sweet, affectionate, and playful. Dwarf breed with varied coat lengths.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 59,
+      "name": "Kinkalow",
+      "description": "Playful, affectionate, and social. Short legs with curled ears.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 8,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 60,
+      "name": "Genetta",
+      "description": "Active, friendly, and affectionate. Short legs with spotted coat.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 8,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 61,
+      "name": "Highlander",
+      "description": "Playful, friendly, and social. Curled ears and sometimes polydactyl.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 9,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 62,
+      "name": "Foldex",
+      "description": "Sweet, calm, and affectionate. Folded ears with exotic features.",
+      "traits": {
+        "energy_level": 4,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 5,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 63,
+      "name": "Elf Cat",
+      "description": "Affectionate, playful, and social. Hairless with curled ears.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 8,
+        "affection": 10,
+        "intelligence": 9,
+        "vocalization": 6,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 64,
+      "name": "Dwelf",
+      "description": "Loving, social, and energetic. Hairless, short legs, curled ears.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 8,
+        "affection": 10,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 65,
+      "name": "Cheetoh",
+      "description": "Gentle, social, and playful. Spotted like a wild cat.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 8,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 66,
+      "name": "Safari",
+      "description": "Active, intelligent, and can be challenging. Hybrid breed.",
+      "traits": {
+        "energy_level": 9,
+        "sociability": 6,
+        "independence": 7,
+        "playfulness": 9,
+        "affection": 5,
+        "intelligence": 10,
+        "vocalization": 5,
+        "adaptability": 5
+      }
+    },
+    {
+      "id": 67,
+      "name": "Serengeti",
+      "description": "Confident, energetic, and vocal. Loves to explore and climb.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 9,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 7,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 68,
+      "name": "Chantilly-Tiffany",
+      "description": "Loyal, affectionate, and moderately active. Devoted companion.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 6,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 69,
+      "name": "Cyprus",
+      "description": "Friendly, social, and adaptable. Native to Cyprus.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 70,
+      "name": "German Rex",
+      "description": "Playful, loyal, and people-oriented. Curly coat.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 8,
+        "affection": 9,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 71,
+      "name": "Ojos Azules",
+      "description": "Gentle, friendly, and affectionate. Known for deep blue eyes.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 6,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 72,
+      "name": "Raas",
+      "description": "Active, loyal, and intelligent. Native to Indonesia.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 7,
+        "affection": 7,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 73,
+      "name": "Tennessee Rex",
+      "description": "Friendly, playful, and affectionate. Curly coat variant.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 8,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 74,
+      "name": "Ukrainian Levkoy",
+      "description": "Friendly, playful, and affectionate. Hairless with folded ears.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 75,
+      "name": "York Chocolate",
+      "description": "Friendly, intelligent, and energetic. Rich chocolate coat.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 76,
+      "name": "Aphrodite Giant",
+      "description": "Gentle, social, and athletic. Large breed from Cyprus.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 77,
+      "name": "Asian Semi-longhair",
+      "description": "Friendly, playful, and social. Moderate energy level.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 78,
+      "name": "Australian Mist",
+      "description": "Tolerant, affectionate, and lively. Great with children.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 4,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 79,
+      "name": "Brazilian Shorthair",
+      "description": "Agile, intelligent, and friendly. Natural breed from Brazil.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 7,
+        "affection": 7,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 80,
+      "name": "California Spangled",
+      "description": "Active, social, and intelligent. Wild appearance, domestic personality.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 8,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 4,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 81,
+      "name": "Colorpoint Shorthair",
+      "description": "Vocal, affectionate, and demanding. Siamese-related breed.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 10,
+        "independence": 2,
+        "playfulness": 8,
+        "affection": 10,
+        "intelligence": 9,
+        "vocalization": 9,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 82,
+      "name": "Dragon Li",
+      "description": "Intelligent, friendly, and gentle. Ancient Chinese breed.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 6,
+        "affection": 7,
+        "intelligence": 9,
+        "vocalization": 3,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 83,
+      "name": "European Shorthair",
+      "description": "Independent, playful, and adaptable. Natural European breed.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 7,
+        "independence": 7,
+        "playfulness": 7,
+        "affection": 7,
+        "intelligence": 8,
+        "vocalization": 3,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 84,
+      "name": "Korn Ja",
+      "description": "Calm, gentle, and affectionate. Thai breed with unique coloring.",
+      "traits": {
+        "energy_level": 4,
+        "sociability": 8,
+        "independence": 4,
+        "playfulness": 5,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 85,
+      "name": "Suphalak",
+      "description": "Loyal, gentle, and moderately active. Ancient Thai breed.",
+      "traits": {
+        "energy_level": 5,
+        "sociability": 7,
+        "independence": 5,
+        "playfulness": 6,
+        "affection": 8,
+        "intelligence": 7,
+        "vocalization": 3,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 86,
+      "name": "Traditional Siamese",
+      "description": "Affectionate, social, and talkative. Rounder face than modern Siamese.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 9,
+        "vocalization": 8,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 87,
+      "name": "Wila Krungthep",
+      "description": "Active, social, and friendly. Thai street cat breed.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 7,
+        "affection": 7,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 88,
+      "name": "Aegean",
+      "description": "Social, intelligent, and active. Natural Greek breed.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 9,
+        "independence": 5,
+        "playfulness": 8,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 89,
+      "name": "Arabian Mau",
+      "description": "Active, loyal, and territorial. Desert breed from Arabia.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 8,
+        "affection": 7,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 90,
+      "name": "Asian",
+      "description": "Sociable, playful, and gentle. Burmese-type breed.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 8,
+        "vocalization": 5,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 91,
+      "name": "Bambob",
+      "description": "Playful, affectionate, and social. Bambino-Bobtail mix.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 8,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 92,
+      "name": "Bohemian Rex",
+      "description": "Friendly, calm, and affectionate. Curly coat Persian type.",
+      "traits": {
+        "energy_level": 3,
+        "sociability": 7,
+        "independence": 5,
+        "playfulness": 4,
+        "affection": 8,
+        "intelligence": 6,
+        "vocalization": 2,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 93,
+      "name": "Cheetah",
+      "description": "Active, confident, and playful. Spotted domestic breed.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 7,
+        "independence": 6,
+        "playfulness": 8,
+        "affection": 7,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 94,
+      "name": "Colorpoint European Shorthair",
+      "description": "Friendly, playful, and adaptable. Point-colored European.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 8,
+        "independence": 6,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 9
+      }
+    },
+    {
+      "id": 95,
+      "name": "Cymric",
+      "description": "Loyal, playful, and smart. Long-haired Manx.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 7,
+        "independence": 5,
+        "playfulness": 7,
+        "affection": 8,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 96,
+      "name": "Desert Lynx",
+      "description": "Confident, social, and active. Polydactyl and bobbed tail.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 8,
+        "independence": 5,
+        "playfulness": 8,
+        "affection": 7,
+        "intelligence": 8,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    },
+    {
+      "id": 97,
+      "name": "Feral",
+      "description": "Independent, wary, and survival-focused. Unsocialized domestic cats.",
+      "traits": {
+        "energy_level": 8,
+        "sociability": 1,
+        "independence": 10,
+        "playfulness": 3,
+        "affection": 1,
+        "intelligence": 8,
+        "vocalization": 2,
+        "adaptability": 4
+      }
+    },
+    {
+      "id": 98,
+      "name": "Javanese",
+      "description": "Vocal, affectionate, and playful. Long-haired Colorpoint.",
+      "traits": {
+        "energy_level": 7,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 8,
+        "affection": 9,
+        "intelligence": 9,
+        "vocalization": 8,
+        "adaptability": 7
+      }
+    },
+    {
+      "id": 99,
+      "name": "Jungala",
+      "description": "Athletic, intelligent, and wild-looking. Spotted hybrid-style breed.",
+      "traits": {
+        "energy_level": 9,
+        "sociability": 6,
+        "independence": 7,
+        "playfulness": 9,
+        "affection": 6,
+        "intelligence": 9,
+        "vocalization": 5,
+        "adaptability": 6
+      }
+    },
+    {
+      "id": 100,
+      "name": "Lambkin",
+      "description": "Affectionate, playful, and gentle. Curly coat with short legs.",
+      "traits": {
+        "energy_level": 6,
+        "sociability": 9,
+        "independence": 3,
+        "playfulness": 7,
+        "affection": 9,
+        "intelligence": 7,
+        "vocalization": 4,
+        "adaptability": 8
+      }
+    }
+  ]
+}
