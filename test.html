@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Test - Which Cat Are You?</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 40px;
+            background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #ff6b9d;
+            text-align: center;
+        }
+        .test-section {
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            margin: 20px 0;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        }
+        .image-container {
+            width: 300px;
+            height: 300px;
+            overflow: hidden;
+            border-radius: 50%;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+            border: 5px solid white;
+            margin: 20px auto;
+        }
+        .test-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .status {
+            padding: 15px;
+            border-radius: 10px;
+            margin: 10px 0;
+            font-weight: bold;
+        }
+        .success {
+            background: #6BCB77;
+            color: white;
+        }
+        .error {
+            background: #FF6B6B;
+            color: white;
+        }
+        .info {
+            background: #4D96FF;
+            color: white;
+        }
+        pre {
+            background: #f5f5f5;
+            padding: 15px;
+            border-radius: 10px;
+            overflow-x: auto;
+            font-size: 12px;
+        }
+        button {
+            background: linear-gradient(135deg, #ff6b9d, #c44569);
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            margin: 10px;
+        }
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(255, 107, 157, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <h1>🐱 Cat Breed Image Test</h1>
+
+    <div class="test-section">
+        <h2>Test 1: Direct SVG Data URI</h2>
+        <p>This image is hardcoded with an SVG data URI (Abyssinian - Pink)</p>
+        <div class="image-container">
+            <img class="test-image"
+                 src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIj4KICA8cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGNkI5RCIvPgogIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkeT0iLjNlbSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjMyIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iIzMzMzMzMyI+QWJ5c3NpbmlhbjwvdGV4dD4KPC9zdmc+"
+                 alt="Abyssinian"
+                 id="test-img-1"
+                 onload="document.getElementById('status-1').innerHTML = '✅ Image loaded successfully!'; document.getElementById('status-1').className = 'status success';"
+                 onerror="document.getElementById('status-1').innerHTML = '❌ Image failed to load'; document.getElementById('status-1').className = 'status error';">
+        </div>
+        <div id="status-1" class="status info">⏳ Loading...</div>
+    </div>
+
+    <div class="test-section">
+        <h2>Test 2: Load from JSON File</h2>
+        <p>This image will be loaded from cat-breeds.json</p>
+        <div class="image-container">
+            <img class="test-image" src="" alt="Loading..." id="test-img-2">
+        </div>
+        <div id="status-2" class="status info">⏳ Waiting for load...</div>
+        <button onclick="loadFromJSON()">Load Image from JSON</button>
+        <pre id="json-data" style="display:none;"></pre>
+    </div>
+
+    <div class="test-section">
+        <h2>Console Output</h2>
+        <p>Open your browser's Developer Console (F12) to see detailed logs</p>
+        <div id="console-output" style="min-height: 100px; background: #f5f5f5; padding: 15px; border-radius: 10px; font-family: monospace; font-size: 12px;">
+            Console messages will appear here and in the browser console...
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>Troubleshooting</h2>
+        <ul>
+            <li><strong>Test 1 should work immediately</strong> - It's a hardcoded inline image</li>
+            <li><strong>Test 2 tests the JSON loading</strong> - Click the button to load from cat-breeds.json</li>
+            <li><strong>Check the browser console</strong> for any errors (F12 key)</li>
+            <li><strong>If Test 1 works but Test 2 doesn't</strong> - there's an issue loading the JSON file</li>
+            <li><strong>If neither works</strong> - your browser may not support SVG data URIs (very rare)</li>
+        </ul>
+    </div>
+
+    <script>
+        const consoleDiv = document.getElementById('console-output');
+
+        function log(message, type = 'info') {
+            console.log(message);
+            const timestamp = new Date().toLocaleTimeString();
+            const color = type === 'error' ? '#ff6b6b' : type === 'success' ? '#6bcb77' : '#333';
+            consoleDiv.innerHTML += `<div style="color: ${color}; margin: 5px 0;">[${timestamp}] ${message}</div>`;
+            consoleDiv.scrollTop = consoleDiv.scrollHeight;
+        }
+
+        log('Test page loaded');
+        log('Testing SVG data URI support...');
+
+        async function loadFromJSON() {
+            log('Loading cat-breeds.json...');
+            const status = document.getElementById('status-2');
+            status.innerHTML = '⏳ Loading from JSON...';
+            status.className = 'status info';
+
+            try {
+                const timestamp = new Date().getTime();
+                const response = await fetch(`cat-breeds.json?v=${timestamp}`);
+                log('JSON fetch response status: ' + response.status, response.ok ? 'success' : 'error');
+
+                const data = await response.json();
+                log(`Loaded ${data.breeds.length} breeds`, 'success');
+
+                const firstBreed = data.breeds[0];
+                log(`First breed: ${firstBreed.name}`);
+                log(`Image type: ${firstBreed.image.substring(0, 30)}...`);
+
+                document.getElementById('json-data').textContent = JSON.stringify(firstBreed, null, 2);
+                document.getElementById('json-data').style.display = 'block';
+
+                const img = document.getElementById('test-img-2');
+                img.src = firstBreed.image;
+                img.alt = firstBreed.name;
+
+                img.onload = function() {
+                    log(`✅ ${firstBreed.name} image loaded successfully!`, 'success');
+                    status.innerHTML = `✅ Image loaded: ${firstBreed.name}`;
+                    status.className = 'status success';
+                };
+
+                img.onerror = function() {
+                    log('❌ Image failed to load', 'error');
+                    status.innerHTML = '❌ Image failed to load';
+                    status.className = 'status error';
+                };
+
+            } catch (error) {
+                log('❌ Error: ' + error.message, 'error');
+                status.innerHTML = '❌ Error loading JSON: ' + error.message;
+                status.className = 'status error';
+            }
+        }
+
+        // Auto-load on page load
+        window.addEventListener('DOMContentLoaded', () => {
+            log('Page ready, you can click "Load Image from JSON" to test');
+        });
+    </script>
+</body>
+</html>

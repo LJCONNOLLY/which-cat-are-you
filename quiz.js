@@ -161,9 +161,13 @@ class CatQuiz {
 
     async loadCatBreeds() {
         try {
-            const response = await fetch('cat-breeds.json');
+            // Add cache busting to ensure we get the latest version
+            const timestamp = new Date().getTime();
+            const response = await fetch(`cat-breeds.json?v=${timestamp}`);
             const data = await response.json();
             this.catBreeds = data.breeds;
+            console.log('Cat breeds loaded:', this.catBreeds.length, 'breeds');
+            console.log('First breed image type:', this.catBreeds[0].image.substring(0, 30));
         } catch (error) {
             console.error('Error loading cat breeds:', error);
             alert('Error loading cat breeds. Please refresh the page.');
@@ -286,8 +290,19 @@ class CatQuiz {
     }
 
     displayResult(cat, userTraits) {
-        document.getElementById('result-cat-image').src = cat.image;
-        document.getElementById('result-cat-image').alt = `${cat.name} cat`;
+        console.log('Displaying result for:', cat.name);
+        console.log('Image data type:', cat.image.substring(0, 30));
+
+        const imgElement = document.getElementById('result-cat-image');
+        imgElement.src = cat.image;
+        imgElement.alt = `${cat.name} cat`;
+        imgElement.onerror = function() {
+            console.error('Image failed to load for:', cat.name);
+        };
+        imgElement.onload = function() {
+            console.log('Image loaded successfully for:', cat.name);
+        };
+
         document.getElementById('result-cat-name').textContent = cat.name;
         document.getElementById('result-cat-description').textContent = cat.description;
         document.getElementById('compatibility-percentage').textContent = `${cat.compatibilityScore}%`;
